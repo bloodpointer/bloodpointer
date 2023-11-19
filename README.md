@@ -1,4 +1,7 @@
 ### Hi there 👋
+my daily routine...
+<br>
+<img src="https://media.tenor.com/_wzUQlkWZygAAAAd/sponge-bob-boring-life.gif" />
 
 <!--
 **bloodpointer/bloodpointer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
